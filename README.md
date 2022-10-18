@@ -11,7 +11,7 @@
 - 🌏 Мечтаю путешествовать и работать удалено
 - ❤️ Надеюсь сделать мир немного лучше 😊
 - 👨‍💻 Ссылка на мои репозитории:
-<p align="center">
+<p align="left">
   <a href="https://github.com/Andrey-Grishkov?tab=repositories" target="_blank" style="cursor: pointer"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="git" width="120" height="100"/> </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">☎️ • Контакты • ☎️</h3>
 - 📫 Email **andreygorm@gmail.com**
-<p align="center">
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100012057423378" target="blank" style="cursor: pointer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://t.me/Andreygorm" target="blank" style="cursor: pointer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andy_poroshkov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 
 <h3 align="left"> 🔨 Мой стек:</h3>
 - JavaScript, Ract.js, HTML, CSS, Node.js, Webpack, Postman, Figma, MongoDB
-<p align="center"> 
+<p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
