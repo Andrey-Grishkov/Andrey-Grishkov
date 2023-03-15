@@ -67,7 +67,7 @@ ___
   реализована функция проставления и удаления своих лайков фотографиям)
   Стек: *HTML, CSS, React, Node.js, MongoDB, Express*)
 - 💌 [Postcard](https://github.com/Andrey-Grishkov/postcard-eight-march-for-mom)
-  \- Сайт открытка с альбомом фотографий для поздраления Мамы
+  \- Сайт открытка с альбомом фотографий для поздравления Мамы
   (Стек: *HTML, CSS, React*)
 - 🪆 [Russian-travel](https://github.com/Andrey-Grishkov/russian-travel)
   \- Одностраничный лендинг с адаптивной версткой о путешествиях по России
@@ -88,8 +88,10 @@ ___
 ### 📈 Статистика:
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey-Grishkov&show_icons=true&locale=en&layout=compact" alt="solnishshka" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey-Grishkov&show_icons=true&locale=en&layout=compact" alt="Grishkov" />
 
+![HTML5](https://github-readme-stats.vercel.app/api/top-langs?username=Andrey-Grishkov&show_icons=true&locale=en&layout=compact)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey-Grishkov&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey-Grishkov&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Grishkov)](https://github.com/anuraghazra/github-readme-stats)
 </p>
