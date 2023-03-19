@@ -82,7 +82,10 @@ ___
 
 ___
 ### 🔧 Codewars:
-[![Codewars](https://www.codewars.com/users/Andrey-Grishkov/badges/large)](https://www.codewars.com/users/Andrey-Grishkov)
+
+[![Codewars](https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/micro)](https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/micro)
+
+[comment]: <> ([![Codewars]&#40;https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/large&#41;]&#40;https://www.codewars.com/users/rsschool_c01ca80b73c4b244&#41;)
 
 ___
 ### 📈 Статистика:
@@ -90,8 +93,6 @@ ___
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrey-Grishkov&show_icons=true&locale=en&layout=compact" alt="Grishkov" />
 
-![HTML5](https://github-readme-stats.vercel.app/api/top-langs?username=Andrey-Grishkov&show_icons=true&locale=en&layout=compact)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey-Grishkov&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey-Grishkov&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Grishkov)](https://github.com/anuraghazra/github-readme-stats)
 </p>
