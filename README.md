@@ -83,7 +83,7 @@ ___
 ___
 ### 🔧 Codewars:
 
-[![Codewars](https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/micro)](https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/micro)
+[![Codewars](https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/micro)](https://www.codewars.com/users/rsschool_c01ca80b73c4b244)
 
 [comment]: <> ([![Codewars]&#40;https://www.codewars.com/users/rsschool_c01ca80b73c4b244/badges/large&#41;]&#40;https://www.codewars.com/users/rsschool_c01ca80b73c4b244&#41;)
 
